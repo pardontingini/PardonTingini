@@ -1,6 +1,6 @@
 # PardonTingini
 
-<h1>Hi, I'm Pardon! <br/><a href="https://github.com/joshmadakor1">Systems Administrator</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Developer</a>, <a href="https://www.youtube.com/c/joshmadakor">Cloud</a></h1>
+<h1>Hi, I'm Pardon! <br/><a href="https://github.com/joshmadakor1">Systems Administrator</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cloud</a>, <a href="https://www.youtube.com/c/joshmadakor">Developer</a></h1>
 
 <h2>👨‍💻Developer Projects:</h2>
   <p></p>
