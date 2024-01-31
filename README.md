@@ -1,4 +1,4 @@
-# PardonTingini
+# Pardon Tingini
 
 <h1>Hi, I'm Pardon! <br/><a href="https://github.com/joshmadakor1">Systems Administrator</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cloud</a>, <a href="https://www.youtube.com/c/joshmadakor">Developer</a></h1>
 
