@@ -5,11 +5,14 @@ Config files for my GitHub profile.
 <h2>👨‍💻Developer Projects:</h2>
 
 
-<h2>Cloud Certifications</h2>
+<h2>Certifications</h2>
 
-<h2> Systems Admin Projects</h2>
+<h2>Systems Admin Projects</h2>
 
-<h2> 🤳 Connect with me:</h2>
+<h2>🌱 I’m currently learning</h2>
+I am currently doing my Masters in Business Administration
+
+<h2>🤳 Connect with me:</h2>
 
 [<img align="left" alt="PardonTingini | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 
