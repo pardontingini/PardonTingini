@@ -5,8 +5,7 @@ Config files for my GitHub profile.
 <h2>👨‍💻Developer Projects:</h2>
 
 
-<h2>Cloud Practitioner Projects</h2>
-
+<h2>Cloud Certifications</h2>
 
 <h2> Systems Admin Projects</h2>
 
