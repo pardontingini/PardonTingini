@@ -15,7 +15,7 @@
   <p>AWS Certified Solutions Architect Associate</p>
 <h2>🔭 I’m currently working on</h2>
   <p></p>
-<h2>🤔 I’m looking for help and collaborations on Cloud Projects</h2>
+<h2>🤔 I’m looking for help and collaborations on Cloud related Projects</h2>
   <p></p>
   
 <h2>🤳 Connect with me:</h2>
