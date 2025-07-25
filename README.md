@@ -3,8 +3,7 @@
 <h1>Hi, I'm Pardon! <br/><a href="https://github.com/pardontingini">Systems Administrator</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cloud</a>, <a href="https://www.youtube.com/c/joshmadakor">Developer</a></h1>
 
 <h2>👨‍💻Developer Projects:</h2>
-  <p>Streamlit PortfolioSite1</p>
-  <br/><a href="https://tinginipaportfolio.streamlit.app"></a>
+  <br/><a href="https://tinginipaportfolio.streamlit.app">Streamlit PortfolioSite1</a>
 <h2>📜Cloud Certifications</h2>
   <p>AWS Certified Cloud Practitioner</p>
   <br/><a href="https:/github.com/pardontingini/AWS-Solutions"> AWS Solutions </a> 
