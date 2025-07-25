@@ -4,7 +4,7 @@
 
 <h2>👨‍💻Developer Projects:</h2>
   <p>Streamlit PortfolioSite1</p>
-  <a href="https://tinginipaportfolio.streamlit.app"/a>
+  <br/><a href="https://tinginipaportfolio.streamlit.app"></a>
 <h2>📜Cloud Certifications</h2>
   <p>AWS Certified Cloud Practitioner</p>
   <br/><a href="https:/github.com/pardontingini/AWS-Solutions"> AWS Solutions </a> 
